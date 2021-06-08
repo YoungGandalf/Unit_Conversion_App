@@ -10,8 +10,14 @@ time in this modern world, everything is being converted to our hands, why not m
 
 HOW TO USE: 
 ○	Give a input value
+
 ○	Then select the submit button submitting the input value given
+
 ○	Now you can select your options from the drop down menus
+
 ○	From there you can change the menu according to what you want to convert to. 
+
+
+
 
 ![Screenshot 2021-06-08 113723](https://user-images.githubusercontent.com/70611669/121215689-3a891a00-c84e-11eb-97d4-54690ddefedf.png)
