@@ -6,3 +6,9 @@ students to convert bases, converting weights, and a temperature convertor/numbe
 any other useful conversions that a student would need. There could also be a tutorial section showing
 the students how the calculations are done so they are able to learn. With Technology reaching its peak
 time in this modern world, everything is being converted to our hands, why not make it more accessible.
+
+HOW TO USE: 
+○	Give a input value
+○	Then select the submit button submitting the input value given
+○	Now you can select your options from the drop down menus
+○	From there you can change the menu according to what you want to convert to. 
